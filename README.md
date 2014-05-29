@@ -4,7 +4,7 @@ cordova-plugin-startapp
 Phonegap 3.*.* plugin for check or launch other application in android device.
 
 
-Install: ```cordova plugin add https://github.com/lampaa/org.apache.cordova.startapp.git```
+Install: ```cordova plugin add https://github.com/markeeftb/org.apache.cordova.startapp.git```
 
 Delete:  ```cordova plugin rm org.apache.cordova.startapp```
 
